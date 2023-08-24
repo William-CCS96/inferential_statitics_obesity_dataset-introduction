@@ -1,0 +1,11 @@
+# conda env create --file environment.yml
+name: inferential_statitics_obesity_dataset
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.10.12
+  - pip:
+    
