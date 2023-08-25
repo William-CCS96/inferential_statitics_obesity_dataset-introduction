@@ -28,6 +28,6 @@ The purpose of the project is to put into practice the concepts of descriptive s
   - Define the null hypothesis and alternative hypothesis
 - Conclusion
 
-<p>
+<p align="center">
   <img src="/images/output.png" alt="Grafico readme">
 </p>
